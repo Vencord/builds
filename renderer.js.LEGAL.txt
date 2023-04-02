@@ -32,3 +32,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/*!
+ * virtual-merge
+ * Copyright (c) 2023 Vendicated
+ * SPDX-License-Identifier: MIT
+ */
