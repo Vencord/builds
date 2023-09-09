@@ -1,4 +1,4 @@
-// Vencord 3a5b70d
+// Vencord 7364776
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
