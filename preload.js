@@ -1,4 +1,4 @@
-// Vencord 7364776
+// Vencord a73d09a
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
