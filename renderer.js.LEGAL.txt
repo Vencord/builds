@@ -37,3 +37,10 @@
  * Copyright (c) 2023 Vendicated
  * SPDX-License-Identifier: MIT
  */
+/**
+ * apng-canvas v2.1.2
+ *
+ * @copyright 2011-2019 David Mzareulyan
+ * @link https://github.com/davidmz/apng-canvas
+ * @license MIT
+ */
