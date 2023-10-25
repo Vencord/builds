@@ -1,4 +1,4 @@
-// Vencord 3bd6576
+// Vencord 148a320
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
