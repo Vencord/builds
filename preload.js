@@ -1,4 +1,4 @@
-// Vencord 97c0fac
+// Vencord 3bd6576
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
