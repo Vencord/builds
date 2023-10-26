@@ -1,4 +1,4 @@
-// Vencord 0352344
+// Vencord 64c6f57
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
