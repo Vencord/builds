@@ -1,4 +1,4 @@
-// Vencord 8ac8048
+// Vencord 25dc25c
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
