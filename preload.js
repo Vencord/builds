@@ -1,4 +1,4 @@
-// Vencord 25dc25c
+// Vencord 0352344
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
