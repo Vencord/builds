@@ -1,4 +1,4 @@
-// Vencord af135b9
+// Vencord 522fdcd
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
