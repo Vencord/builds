@@ -1,4 +1,4 @@
-// Vencord fcf2bdd
+// Vencord 86e9434
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
