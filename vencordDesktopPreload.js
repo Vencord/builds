@@ -1,4 +1,4 @@
-// Vencord d629281
+// Vencord 534ca1e
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
