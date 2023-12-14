@@ -1,4 +1,4 @@
-// Vencord a9568bc
+// Vencord 2cd8294
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
