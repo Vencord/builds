@@ -1,4 +1,4 @@
-// Vencord e8e09c1
+// Vencord 8a168bd
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
