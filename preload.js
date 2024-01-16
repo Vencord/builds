@@ -1,4 +1,4 @@
-// Vencord d73790e
+// Vencord e8e09c1
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
