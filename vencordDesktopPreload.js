@@ -1,4 +1,4 @@
-// Vencord caa14ec
+// Vencord ca18b6e
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
