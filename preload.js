@@ -1,4 +1,4 @@
-// Vencord ec66c35
+// Vencord caa14ec
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
