@@ -1,4 +1,4 @@
-// Vencord de9122b
+// Vencord bdef47e
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
