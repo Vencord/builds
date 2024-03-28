@@ -1,4 +1,4 @@
-// Vencord c997ff7
+// Vencord e71fcc3
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
