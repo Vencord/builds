@@ -1,4 +1,4 @@
-// Vencord bdef47e
+// Vencord 650f405
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
