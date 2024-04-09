@@ -1,4 +1,4 @@
-// Vencord 650f405
+// Vencord dc4c678
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
