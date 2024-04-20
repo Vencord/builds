@@ -1,4 +1,4 @@
-// Vencord 97ce410
+// Vencord 0bebc85
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
