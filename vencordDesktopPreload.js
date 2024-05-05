@@ -1,4 +1,4 @@
-// Vencord 066b872
+// Vencord ce18000
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
