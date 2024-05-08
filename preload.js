@@ -1,4 +1,4 @@
-// Vencord ce18000
+// Vencord 449f955
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
