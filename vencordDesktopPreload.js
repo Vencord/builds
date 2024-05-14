@@ -1,4 +1,4 @@
-// Vencord a54b55e
+// Vencord 719c614
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
