@@ -1,4 +1,4 @@
-// Vencord 9cafe80
+// Vencord 0b611a2
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
