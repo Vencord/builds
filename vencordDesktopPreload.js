@@ -1,4 +1,4 @@
-// Vencord a66138f
+// Vencord 9cafe80
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
