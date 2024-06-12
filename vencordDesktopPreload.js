@@ -1,4 +1,4 @@
-// Vencord 008227c
+// Vencord dc74d28
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
