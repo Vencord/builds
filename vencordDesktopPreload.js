@@ -1,4 +1,4 @@
-// Vencord dc74d28
+// Vencord 2f4e346
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
