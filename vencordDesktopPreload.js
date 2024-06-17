@@ -1,4 +1,4 @@
-// Vencord 2f4e346
+// Vencord 0981241
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
