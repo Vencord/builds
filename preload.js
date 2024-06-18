@@ -1,4 +1,4 @@
-// Vencord 0981241
+// Vencord db6b1f5
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
