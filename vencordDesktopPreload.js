@@ -1,4 +1,4 @@
-// Vencord 3505ada
+// Vencord d04ead7
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
