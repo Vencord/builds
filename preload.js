@@ -1,4 +1,4 @@
-// Vencord db6b1f5
+// Vencord d6f1209
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
