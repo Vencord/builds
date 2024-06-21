@@ -1,4 +1,4 @@
-// Vencord e16c9ca
+// Vencord 18df66a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
