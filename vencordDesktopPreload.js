@@ -1,4 +1,4 @@
-// Vencord cbc7f72
+// Vencord 96873cc
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
