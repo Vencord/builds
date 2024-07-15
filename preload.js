@@ -1,4 +1,4 @@
-// Vencord 0057ab4
+// Vencord ea746f6
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
