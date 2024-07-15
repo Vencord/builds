@@ -1,4 +1,4 @@
-// Vencord ea746f6
+// Vencord 5bd10c8
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
