@@ -1,4 +1,4 @@
-// Vencord 5160f90
+// Vencord 4301ed8
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
