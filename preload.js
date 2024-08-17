@@ -1,4 +1,4 @@
-// Vencord 4301ed8
+// Vencord eaca14b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
