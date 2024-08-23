@@ -1,4 +1,4 @@
-// Vencord eaca14b
+// Vencord 6659f2c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
