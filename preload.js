@@ -1,4 +1,4 @@
-// Vencord b595a3e
+// Vencord 968e688
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
