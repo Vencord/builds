@@ -1,4 +1,4 @@
-// Vencord 968e688
+// Vencord accfc15
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
