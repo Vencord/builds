@@ -1,4 +1,4 @@
-// Vencord accfc15
+// Vencord 244cb26
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
