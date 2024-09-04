@@ -1,4 +1,4 @@
-// Vencord 244cb26
+// Vencord 7333f40
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
