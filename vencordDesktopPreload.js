@@ -1,4 +1,4 @@
-// Vencord 8890c8c
+// Vencord f27361f
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
