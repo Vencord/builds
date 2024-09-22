@@ -1,4 +1,4 @@
-// Vencord 4671575
+// Vencord b1db18c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
