@@ -1,4 +1,4 @@
-// Vencord e620431
+// Vencord f5f59be
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
