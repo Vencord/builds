@@ -44,3 +44,10 @@
  * @link https://github.com/davidmz/apng-canvas
  * @license MIT
  */
+/**
+ * discord-intl
+ *
+ * @copyright 2024 Discord, Inc.
+ * @link https://github.com/discord/discord-intl
+ * @license MIT
+ */
