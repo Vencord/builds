@@ -1,4 +1,4 @@
-// Vencord ea27724
+// Vencord cd61f4e
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
