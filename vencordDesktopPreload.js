@@ -1,4 +1,4 @@
-// Vencord 25ceff5
+// Vencord ea27724
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
