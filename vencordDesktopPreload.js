@@ -1,4 +1,4 @@
-// Vencord a9d44e3
+// Vencord 60b7766
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
