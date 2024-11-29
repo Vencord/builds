@@ -1,4 +1,4 @@
-// Vencord 60b7766
+// Vencord fcece61
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
