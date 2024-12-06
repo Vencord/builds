@@ -1,4 +1,4 @@
-// Vencord df454ca
+// Vencord df44edd
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
