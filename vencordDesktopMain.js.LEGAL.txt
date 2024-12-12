@@ -22,3 +22,10 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
+/**
+ * discord-intl
+ *
+ * @copyright 2024 Discord, Inc.
+ * @link https://github.com/discord/discord-intl
+ * @license MIT
+ */
