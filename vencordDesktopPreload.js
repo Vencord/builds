@@ -1,4 +1,4 @@
-// Vencord 40a8cf1
+// Vencord fc731bc
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
