@@ -1,4 +1,4 @@
-// Vencord 43501ba
+// Vencord ea1e961
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
