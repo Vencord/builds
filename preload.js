@@ -1,4 +1,4 @@
-// Vencord ea1e961
+// Vencord 81dda2c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
