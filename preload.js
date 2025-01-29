@@ -1,4 +1,4 @@
-// Vencord 81dda2c
+// Vencord a2213d4
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
