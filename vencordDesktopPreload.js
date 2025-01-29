@@ -1,4 +1,4 @@
-// Vencord a2213d4
+// Vencord 240195f
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
