@@ -1,4 +1,4 @@
-// Vencord fcf8690
+// Vencord 205e07d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
