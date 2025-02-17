@@ -1,7 +1,7 @@
 /*!
- * BetterDiscord addon meta parser
- * Copyright 2023 BetterDiscord contributors
- * Copyright 2023 Vendicated and Vencord contributors
+ * idb-keyval v6.2.0
+ * Copyright 2016, Jake Archibald
+ * Copyright 2022, Vendicated
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,6 +14,13 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ */
+/**
+ * discord-intl
+ *
+ * @copyright 2024 Discord, Inc.
+ * @link https://github.com/discord/discord-intl
+ * @license MIT
  */
 /*!
  * Vencord, a modification for Discord's desktop app
@@ -32,10 +39,17 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
+/**
+ * apng-canvas v2.1.2
+ *
+ * @copyright 2011-2019 David Mzareulyan
+ * @link https://github.com/davidmz/apng-canvas
+ * @license MIT
+ */
 /*!
- * idb-keyval v6.2.0
- * Copyright 2016, Jake Archibald
- * Copyright 2022, Vendicated
+ * BetterDiscord addon meta parser
+ * Copyright 2023 BetterDiscord contributors
+ * Copyright 2023 Vendicated and Vencord contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -49,22 +63,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*!
- * virtual-merge
- * Copyright (c) 2023 Vendicated
- * SPDX-License-Identifier: MIT
- */
-/**
- * apng-canvas v2.1.2
- *
- * @copyright 2011-2019 David Mzareulyan
- * @link https://github.com/davidmz/apng-canvas
- * @license MIT
- */
-/**
- * discord-intl
- *
- * @copyright 2024 Discord, Inc.
- * @link https://github.com/discord/discord-intl
- * @license MIT
- */
+
+Bundled license information:
+
+virtual-merge/dist/index.mjs:
+  /*!
+   * virtual-merge
+   * Copyright (c) 2023 Vendicated
+   * SPDX-License-Identifier: MIT
+   */

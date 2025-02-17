@@ -1,3 +1,10 @@
+/**
+ * discord-intl
+ *
+ * @copyright 2024 Discord, Inc.
+ * @link https://github.com/discord/discord-intl
+ * @license MIT
+ */
 /*!
  * BetterDiscord addon meta parser
  * Copyright 2023 BetterDiscord contributors
@@ -21,11 +28,4 @@
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
- */
-/**
- * discord-intl
- *
- * @copyright 2024 Discord, Inc.
- * @link https://github.com/discord/discord-intl
- * @license MIT
  */
