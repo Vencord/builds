@@ -1,4 +1,4 @@
-// Vencord 11715da
+// Vencord 0f38441
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
