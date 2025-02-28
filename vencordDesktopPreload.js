@@ -1,4 +1,4 @@
-// Vencord 3de6615
+// Vencord 11715da
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
