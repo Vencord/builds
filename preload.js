@@ -1,4 +1,4 @@
-// Vencord ff82532
+// Vencord 8f65d3c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
