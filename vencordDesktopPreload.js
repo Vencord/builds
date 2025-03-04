@@ -1,4 +1,4 @@
-// Vencord 0f38441
+// Vencord c326801
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
