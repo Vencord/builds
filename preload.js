@@ -1,4 +1,4 @@
-// Vencord d753478
+// Vencord 77bed92
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
