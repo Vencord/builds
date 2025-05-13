@@ -1,4 +1,4 @@
-// Vencord e69575f
+// Vencord d542095
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
