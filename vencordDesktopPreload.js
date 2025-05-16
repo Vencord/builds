@@ -1,4 +1,4 @@
-// Vencord 88c4dab
+// Vencord c1074cb
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
