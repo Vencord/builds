@@ -1,4 +1,4 @@
-// Vencord c1074cb
+// Vencord e447dec
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
