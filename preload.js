@@ -1,4 +1,4 @@
-// Vencord e447dec
+// Vencord bbeaa46
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
