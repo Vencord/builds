@@ -1,4 +1,4 @@
-// Vencord 6ea960c
+// Vencord eafbc0d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
