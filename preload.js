@@ -1,4 +1,4 @@
-// Vencord 93f28fe
+// Vencord 643122e
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
