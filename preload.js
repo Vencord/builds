@@ -1,4 +1,4 @@
-// Vencord 6787e98
+// Vencord ad810df
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
