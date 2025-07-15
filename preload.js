@@ -1,4 +1,4 @@
-// Vencord ad810df
+// Vencord a33e81d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
