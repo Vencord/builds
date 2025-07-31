@@ -1,4 +1,4 @@
-// Vencord 03fe7d1
+// Vencord cb36cf5
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
