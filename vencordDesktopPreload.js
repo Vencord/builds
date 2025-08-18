@@ -1,4 +1,4 @@
-// Vencord 9329467
+// Vencord 0bb2ed6
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
