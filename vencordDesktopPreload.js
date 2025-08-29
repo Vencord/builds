@@ -1,4 +1,4 @@
-// Vencord 19c1eae
+// Vencord c5888c2
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
