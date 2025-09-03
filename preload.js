@@ -1,4 +1,4 @@
-// Vencord 8807564
+// Vencord 9700ec9
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
