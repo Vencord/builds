@@ -1,4 +1,4 @@
-// Vencord 9700ec9
+// Vencord 1cfc3fb
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
