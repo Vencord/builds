@@ -1,4 +1,4 @@
-// Vencord ed51391
+// Vencord 960f49b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
