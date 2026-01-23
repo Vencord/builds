@@ -1,4 +1,4 @@
-// Vencord 799ecc3
+// Vencord 702a71d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
