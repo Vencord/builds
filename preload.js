@@ -1,4 +1,4 @@
-// Vencord fbfc38a
+// Vencord 8ecae35
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
