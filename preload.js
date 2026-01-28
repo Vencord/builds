@@ -1,4 +1,4 @@
-// Vencord 8ecae35
+// Vencord 0126090
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
