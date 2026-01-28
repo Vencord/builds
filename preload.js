@@ -1,4 +1,4 @@
-// Vencord 0126090
+// Vencord 22e9730
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
