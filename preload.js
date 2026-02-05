@@ -1,4 +1,4 @@
-// Vencord 22e9730
+// Vencord 577407b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
