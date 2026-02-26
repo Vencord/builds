@@ -1,4 +1,4 @@
-// Vencord dc25c8f
+// Vencord 12da7a0
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
