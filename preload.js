@@ -1,4 +1,4 @@
-// Vencord cacd0ef
+// Vencord f571784
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
