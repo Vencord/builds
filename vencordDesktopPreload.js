@@ -1,4 +1,4 @@
-// Vencord caba178
+// Vencord e009d5f
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
