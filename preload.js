@@ -1,4 +1,4 @@
-// Vencord 2fbe267
+// Vencord 38340bb
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
