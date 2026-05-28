@@ -1,4 +1,4 @@
-// Vencord 698e156
+// Vencord a50ab50
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
