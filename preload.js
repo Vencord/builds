@@ -1,4 +1,4 @@
-// Vencord e8415d7
+// Vencord 117b362
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
