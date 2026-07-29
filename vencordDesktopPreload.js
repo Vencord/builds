@@ -1,4 +1,4 @@
-// Vencord a3250ea
+// Vencord c84389d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
