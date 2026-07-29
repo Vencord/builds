@@ -1,4 +1,4 @@
-// Vencord 83b74e2
+// Vencord a3250ea
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
