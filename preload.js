@@ -1,4 +1,4 @@
-// Vencord 32b4630
+// Vencord ef29bbe
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
