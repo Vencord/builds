@@ -1,4 +1,4 @@
-// Vencord aa5a764
+// Vencord 32b4630
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
