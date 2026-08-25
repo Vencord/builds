@@ -1,4 +1,4 @@
-// Vencord ef29bbe
+// Vencord dccf584
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
