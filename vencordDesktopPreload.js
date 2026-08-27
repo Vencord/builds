@@ -1,4 +1,4 @@
-// Vencord ada5cfe
+// Vencord bc68013
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
