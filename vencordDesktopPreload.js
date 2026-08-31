@@ -1,4 +1,4 @@
-// Vencord bc68013
+// Vencord 0e40e43
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
