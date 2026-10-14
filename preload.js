@@ -1,4 +1,4 @@
-// Vencord 16ec4ea
+// Vencord 32c9063
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
