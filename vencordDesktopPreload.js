@@ -1,4 +1,4 @@
-// Vencord e75ac9a
+// Vencord a846785
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
